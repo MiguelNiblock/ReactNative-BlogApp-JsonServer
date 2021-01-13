@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Post from JSON Server",
+      "content": "this is the awesome content"
+    },
+    {
+      "title": "New post",
+      "content": "content",
+      "id": 2
+    },
+    {
+      "title": "New postttt",
+      "content": "Content",
+      "id": 3
+    },
+    {
+      "title": "TitleEDIT",
+      "content": "ContentEDIT",
+      "id": 4
+    }
+  ]
+}
